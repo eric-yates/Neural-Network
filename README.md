@@ -52,8 +52,8 @@ done prior to creating a model.
 ```     
 from neural_network import NeuralNetwork
 
-X = ...
-T = ...
+X = ...   # input data
+T = ...   # target data
 
 model = NeuralNetwork(X=X,
                       T=T,
