@@ -88,6 +88,7 @@ for i in xrange(model.epochs):
 * [Python](https://www.python.org/about/) - A programming language used here to create exploratory data graphs
 * [Numpy](http://www.numpy.org/) - Python library for mathematical and matrix operations 
 * [Matplotlib](https://matplotlib.org/) - Python library for graphing data
+* [Pandas](https://pandas.pydata.org/pandas-docs/stable/) - Python library for data manipulation
 
 
 ## Authors
