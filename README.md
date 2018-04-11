@@ -1,5 +1,5 @@
 # Neural-Network
-Contains an object-oriented model of a neural network made from scratch using mathematical theory
+Contains an object-oriented model of a neural network made from scratch using mathematical theory.
 
 This model has not been optimized and is intended for educational purposes rather than maximum performance.
 
@@ -47,7 +47,7 @@ done prior to creating a model.
 ### Advanced
 
 1) Create a new Python script
-2) Save it in the same folder as the 'neural.py' file
+2) Save it in the cloned/forked folder
 2) Use a format similar to the following:
 ```     
 from neural_network import NeuralNetwork
